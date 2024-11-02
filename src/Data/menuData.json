@@ -1,0 +1,11 @@
+{
+    "title": "Magic",
+    "menuItems": [
+      {"label": "Travel", "link": "#"},
+      {"label": "Fashion", "link": "#"},
+      {"label": "Life Style", "link": "#"},
+      {"label": "Automobile", "link": "#"},
+      {"label": "About us", "link": "#"},
+      {"label": "Contact", "link": "#"}
+    ]
+}
